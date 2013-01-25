@@ -88,7 +88,7 @@
 			<key>name</key>
 			<string>Todo</string>
 			<key>scope</key>
-			<string>support.text.todo</string>
+			<string>markup.todo</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
